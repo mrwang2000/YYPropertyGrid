@@ -1,0 +1,7 @@
+#ignored files
+*.class
+*.jar
+
+#ignored folders 
+bin/
+gen/
